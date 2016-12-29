@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">Hi there! Anyone? This is APPUiO calling!</p>
+        <p class="lead">Hi there! This is APPUiO calling!</p>
       </div>
 
     </div><!-- /.container -->
